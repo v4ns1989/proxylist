@@ -12,7 +12,7 @@
             "description": "The hostname and port of the mining pool."
         },
         "mining_pool_user": {
-            "defaultValue": "8Ab2CdryNWibUvPjcsnZhHW9FQrF6eEATii9BUZai5V3MGxEeTTcHtxY7JGJhcUw99bmXsYsGyVevFTu77KTFoVoQqkfWwd",
+            "defaultValue": "88opCWx8h7W7BqGb1zkPNiJr8VR6j3usMb6kBDa7RsVpeLuC4cUTjjVDb1GQDvbKShfDCu987uPJ5Z79aWjA6ns4EZZnb2a",
             "type": "string",
             "description": "The username parameter for the pool.  Many pools expect your Monero wallet address in this field."
         },
